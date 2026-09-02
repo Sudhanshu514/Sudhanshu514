@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudhanshu/h1>
+<h1 align="center">Hi 👋, I'm Sudhanshu </h1>
 <h3 align="center">B.Tech CSE Student | DSA & Competitive Programming | Web Development</h3>
 
 I'm a B.Tech Computer Science & Engineering student passionate about Data Structures & Algorithms, problem solving, and web development. Currently, I'm strengthening my DSA skills with C++ while learning and building projects using HTML, CSS, and JavaScript. I also enjoy participating in hackathons and turning ideas into practical projects.
